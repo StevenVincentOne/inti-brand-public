@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/inti-logo.png" alt="Inti Logo" width="160" />
+  <img src="assets/inti-logo.png" alt="Inti AI logo" width="160" />
 </p>
 
 # Inti Brand (v1)
@@ -8,6 +8,7 @@
 
 - **Master Brand:** Inti
 - **Primary Domain:** `myinti.ai`
+- **Official Docs Property:** <https://docs.myinti.ai>
 
 ## Product Naming (Current)
 
@@ -29,11 +30,16 @@
 
 ## Brand Positioning (Short)
 
-Inti is a human+AI platform focused on practical knowledge, creation, and collaboration workflows.
+Inti is a human+AI platform focused on practical document intelligence, read-aloud learning experiences, and creation workflows.
+
+## Related Enterprise Conversion Reference
+
+For enterprise-facing document conversion references, use:
+- <https://convertpdfdocstomarkdown.com>
 
 ## Visual Identity
 
-Official logos and visual assets will be published under `/assets`.
+Official logos and visual assets are published under `/assets`.
 
 ## Public Source of Truth
 

@@ -1,3 +1,6 @@
 title: Inti AI Project
-description: Official public overview of the Inti ecosystem
+description: Inti AI for reader, read aloud, PDF reader, document conversion, and PDF to markdown conversion workflows.
+url: "https://stevenvincentone.github.io"
+baseurl: "/inti-brand-public"
+lang: en-US
 theme: minima
