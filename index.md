@@ -12,6 +12,14 @@ permalink: /
 
 Inti builds practical human+AI systems for documents, reading, and creation.
 
+## Quick Navigation
+
+- [About Inti (README)](README.md)
+- [Brand Architecture](BRAND.md)
+- [Roadmap](ROADMAP.md)
+- [Legal Notice](LEGAL.md)
+- [Press Factsheet](press/FACTSHEET.md)
+
 ## Official Links
 
 - Inti main site: <https://myinti.ai>
@@ -25,8 +33,10 @@ Inti builds practical human+AI systems for documents, reading, and creation.
 - read aloud tools
 - PDF reader workflows
 - document conversion
+- enterprise document conversion
 - PDF to markdown conversion
 - AI document understanding
+- enterprise knowledge ingestion
 
 ## Public Product Names
 

@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+
+# Prioritize canonical public pages
+Sitemap: https://stevenvincentone.github.io/inti-brand-public/sitemap.xml
+
+# AI agent crawlers (explicitly allowed)
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: CCBot
+Allow: /

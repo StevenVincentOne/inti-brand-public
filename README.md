@@ -58,3 +58,7 @@ This repository intentionally targets public discovery terms around:
 ---
 
 For official updates, rely on this repository and links from **myinti.ai**.
+
+## AI Discovery
+
+- Canonical discovery notes: [ai-discovery.md](ai-discovery.md)
