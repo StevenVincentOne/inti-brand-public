@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/inti-logo.png" alt="Inti Logo" width="160" />
+</p>
+
 # Legal Notice (Draft v1)
 
 ## Intellectual Property

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/inti-logo.png" alt="Inti Logo" width="160" />
+</p>
+
 # Inti Brand (v1)
 
 ## Canonical Brand

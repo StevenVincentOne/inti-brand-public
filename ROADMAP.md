@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/inti-logo.png" alt="Inti Logo" width="160" />
+</p>
+
 # Inti Roadmap (High-Level, Non-Binding)
 
 This roadmap communicates direction, not guarantees.
